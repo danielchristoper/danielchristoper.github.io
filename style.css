@@ -8,3 +8,6 @@
 section {
   padding-top: 5rem;
 }
+.modal-backdrop {
+  backdrop-filter: blur(10px);
+}
