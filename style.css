@@ -9,5 +9,5 @@ section {
   padding-top: 5rem;
 }
 .modal-backdrop {
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(200px);
 }
